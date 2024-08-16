@@ -33,40 +33,58 @@
    
    **主题**: 科幻、未来
    
-   **链接**: [查看作品](//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Th%C3%A9%C3%A2tre_D%E2%80%99op%C3%A9ra_Spatial.jpg/260px-Th%C3%A9%C3%A2tre_D%E2%80%99op%C3%A9ra_Spatial.jpg)
+   **链接**: [查看作品](https://images.squarespace-cdn.com/content/v1/631ac028bb0573377cd15d89/2f14a14b-e193-4b5f-a81f-12e037e39133/Theatre+d%27Opera+Spatial+-+Facebook+Banner.png)
 
 
 ### AI 视频
 
 #### 2024 年
-1. **作品名**: The Future of Cities （例子） 
-   **作者**: Alice Johnson  
-   **创作时间**: 2024-05-10  
-   **使用工具**: Runway ML  
-   **获得荣誉**: 国际 AI 影像展最佳短片  
-   **主题**: 城市、未来  
+1. **作品名**: The Future of Cities （例子）
+   
+   **作者**: Alice Johnson
+   
+   **创作时间**: 2024-05-10
+   
+   **使用工具**: Runway ML
+   
+   **获得荣誉**: 国际 AI 影像展最佳短片 
+   
+   **主题**: 城市、未来
+   
    **链接**: [观看视频](https://example.com)
 
 ### AI 音乐
 
 #### 2024 年
-1. **作品名**: Symphony of the Machines  （例子） 
-   **作者**: Robert Brown  
-   **创作时间**: 2024-04-20  
-   **使用工具**: OpenAI Jukebox  
-   **获得荣誉**: 最佳 AI 作曲奖  
-   **主题**: 机器、交响乐  
+1. **作品名**: Symphony of the Machines  （例子）
+   
+   **作者**: Robert Brown
+   
+   **创作时间**: 2024-04-20
+   
+   **使用工具**: OpenAI Jukebox
+   
+   **获得荣誉**: 最佳 AI 作曲奖
+   
+   **主题**: 机器、交响乐
+   
    **链接**: [收听音乐](https://example.com)
 
 ### AI 短剧
 
 #### 2024 年
-1. **作品名**: Dawn of AI  （例子） 
-   **作者**: Clara Green  
-   **创作时间**: 2024-03-05  
-   **使用工具**: DeepStory  
-   **获得荣誉**: AI 短剧大赛冠军  
-   **主题**: 人工智能、未来社会  
+1. **作品名**: Dawn of AI  （例子）
+   
+   **作者**: Clara Green
+   
+   **创作时间**: 2024-03-05
+   
+   **使用工具**: DeepStory
+   
+   **获得荣誉**: AI 短剧大赛冠军
+   
+   **主题**: 人工智能、未来社会
+   
    **链接**: [观看短剧](https://example.com)
 
 ## 版权声明
