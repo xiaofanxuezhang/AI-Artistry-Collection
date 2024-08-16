@@ -21,12 +21,18 @@
 ### AI 绘画
 
 #### 2022 年
-1. **作品名**: 太空歌剧院 
+1. **作品名**: 太空歌剧院
+   
    **作者**: 杰森·艾伦（Jason Allen）
-   **创作时间**: 2022-08  
+   
+   **创作时间**: 2022-08
+   
    **使用工具**: Midjourney
+   
    **获得荣誉**: 2022年8月，美国科罗拉多州举办艺术博览会，《太空歌剧院》获得数字艺术类别冠军。
-   **主题**: 科幻、未来  
+   
+   **主题**: 科幻、未来
+   
    **链接**: [查看作品](//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Th%C3%A9%C3%A2tre_D%E2%80%99op%C3%A9ra_Spatial.jpg/260px-Th%C3%A9%C3%A2tre_D%E2%80%99op%C3%A9ra_Spatial.jpg)
 
 
