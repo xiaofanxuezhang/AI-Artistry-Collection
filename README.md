@@ -20,27 +20,20 @@
 
 ### AI 绘画
 
-#### 2024 年
-1. **作品名**: Starry Night Redux  
-   **作者**: John Doe  
-   **创作时间**: 2024-03-15  
-   **使用工具**: Stable Diffusion  
-   **获得荣誉**: AI 艺术大赛一等奖  
+#### 2022 年
+1. **作品名**: 太空歌剧院 
+   **作者**: 杰森·艾伦（Jason Allen）
+   **创作时间**: 2022-08  
+   **使用工具**: Midjourney
+   **获得荣誉**: 2022年8月，美国科罗拉多州举办艺术博览会，《太空歌剧院》获得数字艺术类别冠军。
    **主题**: 科幻、未来  
-   **链接**: [查看作品](https://example.com)
+   **链接**: [查看作品](//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Th%C3%A9%C3%A2tre_D%E2%80%99op%C3%A9ra_Spatial.jpg/260px-Th%C3%A9%C3%A2tre_D%E2%80%99op%C3%A9ra_Spatial.jpg)
 
-2. **作品名**: Serenity in Chaos  
-   **作者**: Jane Smith  
-   **创作时间**: 2024-02-28  
-   **使用工具**: Midjourney  
-   **获得荣誉**: 自媒体平台点赞量突破 10 万  
-   **主题**: 环境保护  
-   **链接**: [查看作品](https://example.com)
 
 ### AI 视频
 
 #### 2024 年
-1. **作品名**: The Future of Cities  
+1. **作品名**: The Future of Cities （例子） 
    **作者**: Alice Johnson  
    **创作时间**: 2024-05-10  
    **使用工具**: Runway ML  
@@ -51,7 +44,7 @@
 ### AI 音乐
 
 #### 2024 年
-1. **作品名**: Symphony of the Machines  
+1. **作品名**: Symphony of the Machines  （例子） 
    **作者**: Robert Brown  
    **创作时间**: 2024-04-20  
    **使用工具**: OpenAI Jukebox  
@@ -62,7 +55,7 @@
 ### AI 短剧
 
 #### 2024 年
-1. **作品名**: Dawn of AI  
+1. **作品名**: Dawn of AI  （例子） 
    **作者**: Clara Green  
    **创作时间**: 2024-03-05  
    **使用工具**: DeepStory  
